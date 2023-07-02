@@ -1,5 +1,12 @@
 ## NYCU DLP 2023
 
+### Final Project
+*Gemini Diffusion Model Unveils Underlying Division of Denoising Process*
+
+![alt text](./Final_Project/DLP_Final_Poster.png)
+
+---
+
 ### Lab1
 Backpropagation
 
